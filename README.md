@@ -1,14 +1,29 @@
-# PROMANAGE
-## An Online Employee Management System created for the 2nd Year 1st Semester OOP group project (4 members)
-### My responsibilities during this project
-####	Developed a complete online leave request system using HTML, CSS, JavaScript and MySQL, enabling users to perform CRUD operations. :
-##### 1.	Employee
-######   •	Request Leave (create) 
-######   •	View leaves
-######   •	Update leaves
-######   •	Delete leaves
-##### 2.	Manager
-######   •	View leaves  
-######   •	Approve leaves
-######   •	Reject leaves  
+# Online Employee Management System
+## Employee Leave Management System for the 2nd Year 1st Semester Object-Oriented Programming (OOP) Project
 
+### My Responsibilities
+
+#### 1. **Leave Request System**
+- Designed and developed a comprehensive leave request module.
+- Enabled employees to perform CRUD operations on leave applications.
+- Allowed managers to efficiently review and manage leave requests.
+
+#### 2. **Backend Development**
+- Implemented backend logic using **Java** to handle workflows and business rules related to leave requests.
+
+#### 3. **Database Integration**
+- Utilized **SQL** for storing and managing employee leave data.
+- Ensured data integrity and efficient retrieval of leave information.
+
+#### 4. **Frontend Development**
+- Created a user-friendly interface using **HTML** and **CSS**.
+- Provided a seamless experience for employees and managers.
+
+---
+
+### Tools & Technologies
+- **Java**
+- **SQL**
+- **Eclipse**
+- **HTML**
+- **CSS**
